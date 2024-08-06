@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Captioning Comparison</title>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin-bottom: 20px;
+        }
+        .column {
+            flex: 1;
+            margin: 10px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        hr {
+            border: 1px solid #ccc;
+            margin: 30px 0;
+        }
+    </style>
+</head>
+<body>
+    <h1>Image Captioning Comparison</h1>
+    {% for data in images_data %}
+        <div class="container">
+            <div class="column">
+                <h2>Image</h2>
+                <img src="{{ url_for('get_image', filename=data.image_file) }}" alt="Image">
+            </div>
+            <div class="column">
+                <h2>Ground Truth Captions</h2>
+                <ul>
+                    {% for caption in data.gt %}
+                        <li>{{ caption }}</li>
+                    {% endfor %}
+                </ul>
+            </div>
+            <div class="column">
+                <h2>LLaVA Caption</h2>
+                <p>{{ data.llava_caption }}</p>
+            </div>
+            <div class="column">
+                <h2>Your Caption</h2>
+                <p>{{ data.your_caption }}</p>
+            </div>
+        </div>
+        <hr>
+    {% endfor %}
+</body>
+</html>

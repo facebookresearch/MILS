@@ -1,0 +1,422 @@
+The cheerful babble of a brook.
+The cheerful babble of a crowd at a market.
+The cheerful babbling of a baby.
+The cheerful chirping of birds at dawn.
+The clear ring of a bell.
+The clear ring of a bicycle bell.
+The clear ring of a cash register drawer.
+The clear twang of a banjo string.
+The crackling buzz of an electric fence.
+The crackling of a fire in a fireplace.
+The crackling of dry branches in a fire.
+The crackling of radio static.
+The crisp crunch of biting into a fresh apple.
+The crisp crunch of dry leaves underfoot.
+The crisp pop of popcorn in a microwave.
+The crisp snap of a carrot being broken.
+The crisp snap of a twig underfoot.
+The deep bellow of a bull.
+The deep bellow of a foghorn.
+The deep bellow of a ship's horn.
+The deep boom of a bass drum.
+The deep boom of a bass speaker.
+The deep boom of a cannon.
+The deep boom of a distant cannon.
+The deep boom of a distant explosion.
+The deep boom of a firework exploding.
+The deep boom of a giant bell tolling.
+The deep boom of a massive explosion in a movie.
+The deep boom of a naval gun firing.
+The deep boom of fireworks.
+The deep growl of a large truck engine.
+The deep rumble of a distant storm cloud.
+The deep rumble of a large truck passing by.
+The deep rumble of a volcano erupting.
+The deep rumble of an approaching train.
+The deep rumble of an earthquake tremor.
+The deep rumble of an earthquake.
+The deep rumble of thunder in the distance.
+The deep thump of a bass guitar.
+The distant clang of a train coupling.
+The distant howl of a wolf.
+The distant roar of a waterfall.
+The distant rumbling of a storm.
+The distant rumbling of an approaching storm.
+The distant rumbling of thunder.
+The dull thump of a basketball on pavement.
+The faint drip of a leaking faucet.
+The gentle bubbling of a boiling pot.
+The gentle bubbling of a carbonated drink.
+The gentle bubbling of a fish tank.
+The gentle bubbling of a hot tub.
+The gentle bubbling of a jacuzzi.
+The gentle bubbling of a lava lamp.
+The gentle bubbling of a simmering stew.
+The gentle hum of a hair dryer motor.
+The gentle hum of a harp being played.
+The gentle hum of a sewing machine.
+The gentle hum of a vacuum cleaner motor.
+The gentle lapping of a swimming pool.
+The gentle lapping of water against a boat hull.
+The gentle lapping of water against a boat.
+The gentle lapping of water against a dock.
+The gentle lapping of waves against the shore.
+The gentle lapping of waves on a sandy beach.
+The gentle lapping of waves on a shore.
+The gentle rustle of silk sheets.
+The gentle rustling of leaves in a soft breeze.
+The gentle swish of a paintbrush on canvas.
+The gentle trickle of a bird bath.
+The gentle trickle of a fountain.
+The gentle trickle of raindrops on a tin roof.
+The heavy clang of a ship's anchor.
+The heavy clank of a chain.
+The heavy clank of a dumbbell being set down.
+The heavy clank of metal on metal.
+The heavy slam of a car door.
+The heavy thud of a book dropped on a table.
+The heavy thud of a sack of potatoes hitting the ground.
+The heavy thud of a stack of books being set down.
+The high-pitched beep of a car lock.
+The high-pitched beep of a digital alarm.
+The high-pitched beep of a smoke detector.
+The high-pitched beep of an oven timer.
+The high-pitched chirping of birds in a forest.
+The high-pitched chirping of crickets at night.
+The high-pitched chirping of dolphins communicating.
+The high-pitched ding of a microwave.
+The high-pitched ding of a toaster.
+The high-pitched ding of an elevator arriving.
+The high-pitched ding of an elevator.
+The high-pitched squeak of a mouse wheel turning.
+The high-pitched squeak of a mouse.
+The high-pitched squeal of a car alarm blaring.
+The high-pitched squeal of a door hinge.
+The high-pitched squeal of a piglet.
+The high-pitched squeal of a video game sound effect.
+The high-pitched squeal of brakes being applied.
+The high-pitched whine of a mosquito.
+The hollow clunk of a stone dropped in a well.
+The hollow echo of a cave.
+The hollow echo of footsteps in an empty hall.
+The hollow knock of a woodpecker.
+The hollow knock of someone tapping on a door.
+The hollow knock on a wooden door.
+The hollow thump of a basketball hitting the court.
+The hollow thump of a melon being tapped.
+The jangling of coins in a pocket.
+The jingling of a dog's collar.
+The jingling of change being counted.
+The jingling of keys in a pocket.
+The loud bang of a firecracker.
+The loud bang of a gunshot.
+The loud bang of a slammed door.
+The loud beep of a truck backing up.
+The loud blare of a trumpet.
+The loud blast of a air horn blowing.
+The loud blast of a boat horn.
+The loud blast of a foghorn.
+The loud blast of a horn section playing.
+The loud blast of a ship's horn.
+The loud blast of a ship's whistle.
+The loud blast of a shotgun firing.
+The loud blast of a steam whistle.
+The loud blast of a train horn.
+The loud buzz of a bee near a flower.
+The loud buzz of a chainsaw.
+The loud buzz of a drone.
+The loud buzz of a hairdryer.
+The loud buzz of a mosquito.
+The loud buzz of an electric razor.
+The loud buzz of an electric saw.
+The loud clang of a blacksmith hammering metal.
+The loud clang of a construction site in operation.
+The loud clang of a steel beam being dropped.
+The loud clang of a sword fight in a movie.
+The loud clapping of a crowd at a play.
+The loud clapping of applause.
+The loud clapping of thunder.
+The loud clatter of a roller coaster.
+The loud crash of a cymbal.
+The loud crash of a dish breaking.
+The loud crash of a falling tree.
+The loud crash of waves during a storm.
+The loud honk of a bus horn.
+The loud honk of a car horn.
+The loud honk of a freight train horn.
+The loud honk of a ship's horn.
+The loud roar of a chainsaw cutting wood.
+The loud roar of a concert crowd.
+The loud roar of a crowd at a concert.
+The loud roar of a crowd at a sports event.
+The loud roar of a jet engine taking off.
+The loud roar of a jet engine.
+The loud roar of a motorcycle race.
+The loud roar of a race car engine.
+The loud roar of a rocket ship blasting off.
+The loud roar of a stadium crowd.
+The loud rumble of a massive boulder rolling down a hill.
+The loud rumble of a massive truck driving by.
+The loud rumble of a waterfall cascading down rocks.
+The loud rumble of an avalanche.
+The loud screech of a car's tires skidding.
+The loud smash of a window breaking.
+The loud vroom of a drag race.
+The loud vroom of a motorcycle engine.
+The loud vroom of a race car.
+The loud vroom of a speedboat engine.
+The low growl of a bear.
+The low growl of a cat in displeasure.
+The low growl of a distant motorcycle.
+The low growl of a dog.
+The low hum of a computer server.
+The low hum of a computer.
+The low hum of a distant lawnmower.
+The low hum of a generator.
+The low hum of a refrigerator.
+The low hum of a vending machine.
+The low hum of an air conditioner.
+The low murmur of a crowd at a gallery.
+The low murmur of a distant conversation.
+The low murmur of a distant lawnmower.
+The low murmur of a library.
+The low rumble of a subway train approaching.
+The low rumble of a volcano.
+The melodic chirping of crickets at night.
+The melodic strum of a harp.
+The melodic tinkle of wind chimes.
+The melodic trickle of a mountain stream.
+The muffled boom of distant fireworks.
+The muffled chatter of a crowded room.
+The muffled roar of a crowd in a stadium.
+The muffled roar of an airplane overhead.
+The muffled thud of a punching bag.
+The muffled thump of a bass drum.
+The muffled thump of a book falling off a shelf.
+The muffled thump of a drum in a parade.
+The muffled thump of a drum.
+The muffled thump of a football being kicked.
+The muffled thump of a soccer ball being kicked.
+The piercing screech of an alarm clock.
+The quick click of a camera taking a photo.
+The quick click of a computer mouse.
+The quick click of a light switch.
+The quick flick of a lighter.
+The quick flick of a switch being turned on.
+The quick flick of a switch.
+The quick snap of a camera shutter.
+The quick snap of a flag in the wind.
+The quick snap of a glove being pulled on.
+The quick snap of a rubber band.
+The quick swish of a golf club.
+The quick zip of a jacket being fastened.
+The quick zip of a tent being closed.
+The quick zip of a zipper being fastened.
+The rhythmic beat of a bass drum.
+The rhythmic beat of a conga drum.
+The rhythmic beat of a drum.
+The rhythmic beat of a snare drum.
+The rhythmic beat of a tom-tom drum.
+The rhythmic chug of a diesel engine.
+The rhythmic clacking of a train on tracks.
+The rhythmic clacking of a typewriter.
+The rhythmic clacking of heels on a tile floor.
+The rhythmic clapping of an audience.
+The rhythmic drip of a coffee percolator.
+The rhythmic pounding of a drumline.
+The rhythmic pounding of a jackhammer.
+The rhythmic splash of a car wash.
+The rhythmic splash of a paddle in a kayak.
+The rhythmic splash of a swimmer.
+The rhythmic splash of a washing machine.
+The rhythmic splash of oars in water.
+The rhythmic splash of rain on a pond.
+The rhythmic splash of raindrops.
+The rhythmic tap of rain on a metal roof.
+The rhythmic tapping of a chisel on stone.
+The rhythmic tapping of a chisel.
+The rhythmic tapping of a hammer.
+The rhythmic tapping of a keyboard.
+The rhythmic tapping of a nervous finger.
+The rhythmic tapping of a pencil on a desk.
+The rhythmic thud of a basketball player dribbling.
+The rhythmic thud of a basketball.
+The rhythmic thud of a boxer's punches.
+The rhythmic thud of a runner's feet on a track.
+The rhythmic thud of a runner's feet on pavement.
+The rhythmic thud of a tennis ball being hit.
+The rhythmic ticking of an old clock.
+The sharp bark of a startled dog.
+The sharp beep of a digital watch alarm.
+The sharp beep of a microwave oven.
+The sharp beep of a timer going off.
+The sharp clack of billiard balls colliding.
+The sharp clang of a bell at a train crossing.
+The sharp clang of a cymbal.
+The sharp clang of a dropped pan.
+The sharp clang of a gate closing.
+The sharp clang of a hammer on a nail.
+The sharp clang of a horseshoe hitting a stake.
+The sharp clang of a metal gate.
+The sharp clatter of a dropped utensil.
+The sharp clatter of a falling tray.
+The sharp clatter of a roller skate.
+The sharp clatter of a skateboard on concrete.
+The sharp clatter of a skateboard.
+The sharp clatter of cutlery.
+The sharp clatter of dishes being stacked.
+The sharp click of a camera shutter.
+The sharp click of a computer mouse button.
+The sharp click of a door latch opening.
+The sharp click of a keyboard being typed on.
+The sharp clink of a spoon against a coffee cup.
+The sharp clink of glasses being toasted.
+The sharp clink of ice cubes in a glass.
+The sharp crack of a baseball bat.
+The sharp crack of thunder during a storm.
+The sharp crackle of a bonfire.
+The sharp crackle of a burning match.
+The sharp crackle of a campfire.
+The sharp crackle of a radio transmission.
+The sharp crackle of a radio.
+The sharp crackle of a sparkler burning.
+The sharp crackle of a vinyl record playing.
+The sharp crackle of a walkie-talkie.
+The sharp crackle of static electricity.
+The sharp fizz of a firework fuse.
+The sharp hiss of a radiator.
+The sharp hiss of a snake.
+The sharp hiss of steam escaping.
+The sharp ping of a baseball hitting a bat.
+The sharp ping of a golf ball being hit.
+The sharp ping of a metal bat hitting a ball.
+The sharp ping of a metal bat hitting a baseball.
+The sharp ping of a metal bat.
+The sharp ping of a ping pong ball.
+The sharp ping of a sonar device.
+The sharp ring of a cash register.
+The sharp ring of a fire alarm.
+The sharp ring of a school bell.
+The sharp ring of a telephone.
+The sharp scrape of a rake on gravel.
+The sharp scrape of a shovel on a sidewalk.
+The sharp scrape of a shovel on concrete.
+The sharp scrape of ice being shoveled.
+The sharp sizzle of meat on a grill.
+The sharp snap of a flag in the wind.
+The sharp snick of a lock.
+The sharp snip of a wire cutter.
+The sharp snip of cutting through fabric.
+The sharp snip of scissors cutting paper.
+The sharp whistle of a bird calling.
+The sharp whistle of a boiling kettle.
+The sharp whistle of a kettle boiling.
+The sharp whistle of a referee in a sports game.
+The sharp whistle of a referee.
+The sharp whistle of a soccer referee.
+The sharp whistle of a tea kettle boiling.
+The sharp whistle of a tea kettle.
+The sharp whistle of a train conductor.
+The shrill beep of a car alarm.
+The shrill beep of a microwave.
+The shrill beep of a truck reversing.
+The shrill chirp of a smoke alarm.
+The sizzling crackle of a campfire.
+The sizzling crackle of a log on a fire.
+The sizzling hiss of onions frying in oil.
+The sizzling sound of bacon frying in a pan.
+The slow creak of a gate swinging.
+The slow creak of a rocking chair.
+The slow creak of a weathered sign swinging.
+The slow creak of an old door.
+The slow gurgle of a babbling brook.
+The slow gurgle of a bubbling brook.
+The slow gurgle of a coffee brewer.
+The slow gurgle of a draining sink.
+The slow gurgle of a fish tank.
+The slow gurgle of a lazy river.
+The slow gurgle of a percolating coffee pot.
+The smooth glide of a canoe.
+The smooth glide of a rowboat oar in water.
+The smooth glide of a skateboard.
+The smooth glide of ice skates on ice.
+The smooth purring of a cat.
+The smooth purring of a motorcycle engine.
+The smooth purring of a well-tuned engine.
+The smooth slide of a curtain.
+The smooth slide of a drawer opening.
+The smooth slide of a trombone.
+The smooth whir of a fan blade.
+The smooth whoosh of a swinging door.
+The soft coo of a dove.
+The soft cooing of a baby laughing.
+The soft cooing of a baby.
+The soft cooing of a couple whispering to each other.
+The soft cooing of a dove.
+The soft cooing of a morning dove.
+The soft cooing of pigeons.
+The soft creak of an old wooden floor.
+The soft fizz of a candle being extinguished.
+The soft fizz of a dissolving tablet in water.
+The soft fizz of a soda being poured.
+The soft flutter of a bird's wings.
+The soft flutter of a curtain.
+The soft flutter of a flag in the breeze.
+The soft flutter of a moth's wings.
+The soft flutter of a newspaper in the breeze.
+The soft gurgle of a brook babbling over stones.
+The soft gurgle of a coffee maker.
+The soft gurgle of a drain pipe flowing.
+The soft gurgle of a fish tank filter.
+The soft gurgle of a small stream flowing.
+The soft murmur of a creek.
+The soft murmur of a stream.
+The soft padding of a cat's paws.
+The soft padding of a dog's paws.
+The soft padding of bare feet on sand.
+The soft padding of feet on carpet.
+The soft patter of squirrel feet on a roof.
+The soft pitter-patter of rain on a window.
+The soft plop of a frog jumping into water.
+The soft plop of a stone skipping on water.
+The soft pop of a cork from a wine bottle.
+The soft rustle of a dress on a dance floor.
+The soft rustle of a jacket.
+The soft rustle of a newspaper being read.
+The soft rustle of a newspaper.
+The soft rustle of a plastic bag.
+The soft rustle of a silk dress.
+The soft rustle of clothes in a dryer.
+The soft rustle of feathers in a pillow.
+The soft rustle of leaves in an autumn breeze.
+The soft rustle of paper being turned.
+The soft rustle of silk fabric being moved.
+The soft sigh of a breeze through leaves.
+The soft sigh of a settling house.
+The soft sigh of a sleeping child.
+The soft sigh of an air vent.
+The soft sigh of relief.
+The soft sigh of wind through a valley.
+The soft sigh of wind through trees.
+The soft whine of a vacuum cleaner.
+The soft whisper of a gentle breeze.
+The soft whoosh of a bird flying overhead.
+The soft whoosh of a curtain opening.
+The soft whoosh of a roller coaster cresting a hill.
+The soft whoosh of a sail filling with wind.
+The soft whoosh of a skydiver free-falling.
+The soothing hum of a refrigerator.
+The soothing splash of a paddle in a lake.
+The steady beep of a heart monitor.
+The sudden burst of a fire hydrant.
+The sudden burst of a soda can opening.
+The sudden burst of laughter.
+The sudden pop of a balloon bursting.
+The sudden shatter of glass breaking.
+The sudden splash of a diving board.
+The sudden splash of a fish jumping.
+The sudden splash of a stone thrown into a pond.
+The sudden splash of water.
+The sudden whoosh of a firework rocket.
+The sudden whoosh of a gust of wind.
+The vibrant strumming of a guitar.

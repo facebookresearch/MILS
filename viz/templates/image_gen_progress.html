@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Generation Progress</title>
+    <style>
+        .folder-container {
+            margin-bottom: 30px;
+            padding: 10px;
+            border: 1px solid #ddd;
+        }
+        .image-container {
+            display: inline-block;
+            margin: 10px;
+            text-align: center;
+            width: 120px;
+            vertical-align: top;
+        }
+        .image-container img {
+            max-width: 100px;
+            max-height: 100px;
+        }
+        .log-line {
+            font-family: monospace;
+            font-size: 0.9em;
+            color: #555;
+            word-wrap: break-word;
+            white-space: pre-wrap; /* Ensures long lines break */
+            max-width: 100px; /* Constrain the width to match the image size */
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Image Generation Progress</h1>
+
+    {% for folder in folders %}
+    <div class="folder-container">
+        <h2>Folder {{ folder.folder_id }}</h2>
+        <div>
+            {% for image in folder.images %}
+            <div class="image-container">
+                <p>Image {{ image.index }}.png</p>
+                <img src="{{ image.url }}" alt="Image {{ image.index }}.png">
+                <div class="log-line">
+                    {% if image.index == 0 %}
+                        {{ folder.log_lines[0] }}
+                    {% elif image.index == 3 %}
+                        {{ folder.log_lines[3] }}
+                    {% elif image.index == 7 %}
+                        {{ folder.log_lines[7] }}
+                    {% elif image.index == 11 %}
+                        {{ folder.log_lines[11] }}
+                    {% elif image.index == 15 %}
+                        {{ folder.log_lines[15] }}
+                    {% elif image.index == 19 %}
+                        {{ folder.log_lines[19] }}
+                    {% else %}
+                        <!-- Display no log for indexes without selected lines -->
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% endfor %}
+</body>
+</html>

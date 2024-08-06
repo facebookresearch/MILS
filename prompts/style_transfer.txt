@@ -1,0 +1,9 @@
+You need to generate instructions for image editing that minimize a pair of scores:
+
+I am providing you a list of example editing instructions and their pairs of scores. 
+
+{descriptions}
+
+Generate additional {requested_number} editing instructions. Be concrete and come up with different instructions with various guesses for the possible edits that will minimize both of the scores. 
+You can introduce new styles to the instructions, combine unique styles and textures from provided instructions to form new instructions, rephrase individual instructions, drop instruction parts, or simplify them. 
+Be creative and don't be afraid to come up with erroneous editing instructions. Put each instruction in a different line, with a counter at the beginning (e.g. "1. ..."), and keep them short (less than 50 words).

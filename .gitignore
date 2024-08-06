@@ -1,0 +1,9 @@
+utils/__pycache__/*
+utils/__pycache__/*.pyc
+__pycache__/
+a.txt
+sets/
+outputs/
+*.sh
+.checkpoints/*
+viz/flux.csv

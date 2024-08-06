@@ -1,0 +1,2 @@
+- Add images for style transfer here
+- An example can be downloaded here: [content image](https://pxhere.com/en/photo/971721) and [style image](https://www.pexels.com/photo/bokeh-301664/) (Fig. 6 in the paper).

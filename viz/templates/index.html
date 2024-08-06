@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Captioning Comparison</title>
+</head>
+<body>
+    <h1>Image Captioning Comparison</h1>
+    <ul>
+        {% for image_id in image_ids %}
+            <li><a href="{{ url_for('show_image', image_id=image_id) }}">Image {{ image_id }}</a></li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

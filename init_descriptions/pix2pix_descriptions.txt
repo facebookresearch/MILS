@@ -1,0 +1,531 @@
+Apply a Constructivism art style.
+Apply a Gothic Revival painting style.
+Apply a VHS tape effect.
+Apply a bokeh effect.
+Apply a bustling city park effect.
+Apply a bustling city street effect.
+Apply a bustling flea market effect.
+Apply a bustling harbor scene effect.
+Apply a bustling market scene effect.
+Apply a bustling seaside promenade effect.
+Apply a bustling street food market effect.
+Apply a bustling vineyard effect.
+Apply a caravaggisti style as if created by Caravaggio.
+Apply a chainmail armor effect.
+Apply a city skyline at night effect.
+Apply a coarse, rocky texture.
+Apply a coral reef underwater effect.
+Apply a crinkled foil texture to the image.
+Apply a crinkled, crepe paper texture.
+Apply a crinkled, dried seaweed texture.
+Apply a cross-stitch pattern.
+Apply a crumpled, metallic foil texture.
+Apply a crumpled, newspaper texture.
+Apply a crumpled, paper-like texture.
+Apply a crumpled, tissue paper texture.
+Apply a crumpled, wrapping paper texture.
+Apply a crystallize effect.
+Apply a cyberpunk style.
+Apply a dada effect as if created by Max Ernst.
+Apply a deep cave effect.
+Apply a deep forest effect.
+Apply a deep sea effect.
+Apply a desert mirage effect.
+Apply a double exposure effect.
+Apply a fauvist style as if painted by Henri Matisse.
+Apply a fibrous, coconut husk texture.
+Apply a fish-eye lens effect.
+Apply a frosty, ice crystal texture.
+Apply a glitch art effect.
+Apply a gold leaf overlay.
+Apply a holographic sticker effect.
+Apply a kaleidoscope effect.
+Apply a lace effect.
+Apply a lava lamp effect.
+Apply a lush jungle effect.
+Apply a magic mirror effect.
+Apply a mannerist style as if created by El Greco.
+Apply a matte painting effect.
+Apply a mirror effect.
+Apply a misty morning effect.
+Apply a moonlight effect.
+Apply a mountain summit view effect.
+Apply a neoclassical style as if created by Jacques-Louis David.
+Apply a neon light effect.
+Apply a night sky effect.
+Apply a northern lights effect.
+Apply a pastel drawing effect.
+Apply a peaceful alpine meadow effect.
+Apply a peaceful countryside effect.
+Apply a peaceful orchard effect.
+Apply a pebbled, gravel-like texture.
+Apply a pencil crayon effect.
+Apply a post-impressionist effect as if created by Paul Cézanne.
+Apply a precisionist style as if created by Charles Sheeler.
+Apply a psychedelic art style.
+Apply a quiet beach sunset effect.
+Apply a quiet forest clearing effect.
+Apply a quiet woodland path effect.
+Apply a raindrop effect.
+Apply a rainforest canopy effect.
+Apply a retro comic book style.
+Apply a romanticism effect as if painted by Eugène Delacroix.
+Apply a rotoscope animation style.
+Apply a rough, sandpaper-like texture.
+Apply a rough, stucco-like texture.
+Apply a serene coastal cliff effect.
+Apply a serene mountain lake effect.
+Apply a serene riverbank effect.
+Apply a serene snowscape effect.
+Apply a serene waterfall effect.
+Apply a shattered glass effect.
+Apply a slimy, algae-covered texture.
+Apply a slippery, soap-like texture.
+Apply a smooth and icy texture.
+Apply a smooth, leather-like texture.
+Apply a smooth, neoprene-like texture.
+Apply a snow globe effect.
+Apply a soap bubble effect.
+Apply a solar eclipse effect.
+Apply a solarize effect.
+Apply a space nebula effect.
+Apply a spongy, bread-like texture.
+Apply a spongy, foam-like texture.
+Apply a spongy, mushroom cap texture.
+Apply a starburst effect.
+Apply a steampunk style.
+Apply a sticky, adhesive tape texture.
+Apply a sticky, caramel texture.
+Apply a sticky, chewing gum texture.
+Apply a sticky, glue-like texture.
+Apply a sticky, honeycomb texture.
+Apply a sticky, molasses texture.
+Apply a sticky, resin-coated surface.
+Apply a sticky, tape-like texture.
+Apply a sticky, vinyl adhesive texture.
+Apply a sticky, wax seal texture.
+Apply a style inspired by the Arts and Crafts movement.
+Apply a style inspired by the Ashcan School.
+Apply a style inspired by the Group of Seven.
+Apply a style reminiscent of the American Regionalism.
+Apply a style reminiscent of the Nabis.
+Apply a style reminiscent of the Northern Renaissance.
+Apply a summer filter.
+Apply a sunset at the beach effect.
+Apply a surreal effect as if painted by Salvador Dalí.
+Apply a surrealism style.
+Apply a tenebrist style as if created by Artemisia Gentileschi.
+Apply a thermal vision effect.
+Apply a topographic map effect.
+Apply a tranquil lake effect.
+Apply a tranquil morning dew effect.
+Apply a tranquil pond effect.
+Apply a velvet painting effect.
+Apply a vibrant autumn forest effect.
+Apply a vibrant botanical garden effect.
+Apply a vibrant carnival scene effect.
+Apply a vibrant city rooftop view effect.
+Apply a vibrant flower garden effect.
+Apply a vibrant street festival effect.
+Apply a wet plate photography effect.
+Apply a winter frost effect.
+Apply an art deco effect as if designed by Tamara de Lempicka.
+Apply an expressionist effect like Edvard Munch would create.
+Change its style to Van Gogh
+Change the texture to a coarse, oatmeal fabric.
+Change the texture to a delicate, fishnet fabric.
+Change the texture to a delicate, lace pattern.
+Change the texture to a delicate, origami paper.
+Change the texture to a delicate, spider web pattern.
+Change the texture to a delicate, tulle fabric.
+Change the texture to a fluffy, cloud-like surface.
+Change the texture to a gooey, melted chocolate surface.
+Change the texture to a knotted, rope pattern.
+Change the texture to a rough, bumpy toad skin.
+Change the texture to a rough, burlap fabric.
+Change the texture to a rough, burlap sack.
+Change the texture to a rough, corduroy fabric.
+Change the texture to a rough, denim fabric.
+Change the texture to a rough, flannel fabric.
+Change the texture to a rough, hessian sack.
+Change the texture to a rough, tree bark pattern.
+Change the texture to a rough, wool sweater.
+Change the texture to a soft, marshmallow surface.
+Change the texture to a soft, pillowy surface.
+Change the texture to a sticky, gum-like surface.
+Change the texture to a woven, bamboo mat.
+Change the texture to a woven, hemp fabric.
+Change the texture to a woven, jute fabric.
+Change the texture to a woven, linen fabric.
+Change the texture to a woven, straw mat.
+Change the texture to a woven, tatami mat.
+Change the texture to a woven, wicker pattern.
+Convert it into ASCII art.
+Convert it into a 3D anaglyph.
+Convert it into a Byzantine icon style.
+Convert it into a Renaissance style as if painted by Leonardo da Vinci.
+Convert it into a Rococo painting style.
+Convert it into a Victorian portrait.
+Convert it into a batik fabric style.
+Convert it into a bead art.
+Convert it into a carved wood texture.
+Convert it into a chalk drawing.
+Convert it into a digital art piece in the style of Takashi Murakami.
+Convert it into a digital pixel art.
+Convert it into a futurist scene as if painted by Umberto Boccioni.
+Convert it into a gothic painting as if created by Jan van Eyck.
+Convert it into a leather texture.
+Convert it into a linocut print.
+Convert it into a minimalist art style.
+Convert it into a night vision effect.
+Convert it into a photorealistic painting as if done by Chuck Close.
+Convert it into a retro diner menu style.
+Convert it into a rubber eraser texture.
+Convert it into a rubber stamp.
+Convert it into a scene as if painted by American realist Edward Hopper.
+Convert it into a scene as if painted by the American impressionist Mary Cassatt.
+Convert it into a scene as if painted by the American modernist Georgia O'Keeffe.
+Convert it into a scene as if painted by the Rococo artist Jean-Honoré Fragonard.
+Convert it into a scene as if painted by the symbolist artist Gustave Moreau.
+Convert it into a silhouette.
+Convert it into a smoke art.
+Convert it into a style inspired by Op Art.
+Convert it into a style inspired by the Aesthetic Movement.
+Convert it into a style inspired by the Blue Rider.
+Convert it into a style inspired by the Hudson River School.
+Convert it into a style inspired by the Mexican Muralism.
+Convert it into a style inspired by the Vienna Secession.
+Convert it into a style reminiscent of the Harlem Renaissance.
+Convert it into a surrealistic landscape as if painted by Frida Kahlo.
+Convert it into a traditional African kente cloth pattern.
+Convert it into a traditional African mask style.
+Convert it into a traditional Amish quilt pattern.
+Convert it into a traditional Balkan embroidery pattern.
+Convert it into a traditional Baltic linen pattern.
+Convert it into a traditional Filipino barong tagalog pattern.
+Convert it into a traditional Finnish marimekko fabric pattern.
+Convert it into a traditional Greek fresco style.
+Convert it into a traditional Hawaiian tapa cloth pattern.
+Convert it into a traditional Hungarian embroidery style.
+Convert it into a traditional Indian mehndi design.
+Convert it into a traditional Inuit art style.
+Convert it into a traditional Italian fresco style.
+Convert it into a traditional Japanese indigo dye pattern.
+Convert it into a traditional Korean celadon pottery pattern.
+Convert it into a traditional Moroccan tile pattern.
+Convert it into a traditional Portuguese azulejo tile pattern.
+Convert it into a traditional Scandinavian rosemaling style.
+Convert it into a traditional Slovak folk art style.
+Convert it into a traditional Spanish flamenco fabric pattern.
+Convert it into a traditional Thai mural style.
+Convert it into an art deco style.
+Convert it into an impressionist scene like Edgar Degas would paint.
+Convert it to a high dynamic range (HDR) style.
+Convert the image into a watercolor painting.
+Convert the surface to mimic soft, brushed suede.
+Convert the texture to resemble a bubbling, lava flow.
+Convert the texture to resemble a creamy, yogurt surface.
+Convert the texture to resemble a dense, knitted wool.
+Convert the texture to resemble a dripping, wax candle.
+Convert the texture to resemble a glistening, fish scale.
+Convert the texture to resemble a rippling, brook surface.
+Convert the texture to resemble a rippling, water surface.
+Convert the texture to resemble a rugged mountain surface.
+Convert the texture to resemble a rugged, cliff face.
+Convert the texture to resemble a shiny, chrome surface.
+Convert the texture to resemble a smooth ceramic tile.
+Convert the texture to resemble a smooth, eggshell finish.
+Convert the texture to resemble a smooth, glass surface.
+Convert the texture to resemble a smooth, ice cream surface.
+Convert the texture to resemble a smooth, mirror finish.
+Convert the texture to resemble a smooth, pearl surface.
+Convert the texture to resemble a smooth, polished gemstone.
+Convert the texture to resemble a smooth, polished stone.
+Convert the texture to resemble a tightly woven basket.
+Convert the texture to resemble a wet, mossy rock.
+Convert the texture to resemble a wet, muddy ground.
+Convert the texture to resemble a wet, ocean wave.
+Convert the texture to resemble a wet, paint surface.
+Convert the texture to resemble a wet, river stone.
+Convert the texture to resemble a wet, seaweed surface.
+Convert the texture to resemble cracked clay.
+Convert the texture to resemble polished, mahogany wood.
+Convert the texture to resemble smooth marble.
+Convert the texture to resemble sun-baked earth.
+Give it a vintage sepia tone.
+Give the image a brittle, ceramic crackle texture.
+Give the image a brittle, dried leaf texture.
+Give the image a brittle, dried mud texture.
+Give the image a brittle, eggshell texture.
+Give the image a brittle, frost-covered surface.
+Give the image a brittle, frozen pond texture.
+Give the image a brittle, ice sheet texture.
+Give the image a delicate, butterfly wing texture.
+Give the image a delicate, dragonfly wing texture.
+Give the image a delicate, feather-like texture.
+Give the image a fluffy, cotton-like texture.
+Give the image a glossy, reflective texture.
+Give the image a gritty, asphalt texture.
+Give the image a gritty, broken glass texture.
+Give the image a gritty, cinder block texture.
+Give the image a gritty, gravel road texture.
+Give the image a gritty, limestone texture.
+Give the image a gritty, pumice stone texture.
+Give the image a gritty, raw concrete texture.
+Give the image a gritty, sandstone texture.
+Give the image a matte, non-reflective texture.
+Give the image a plush, teddy bear-like texture.
+Give the image a rough, concrete texture.
+Give the image a rough, galvanized metal texture.
+Give the image a rough, rusty metal texture.
+Give the image a soft, chenille fabric texture.
+Give the image a soft, moleskin notebook cover texture.
+Give the image a soft, suede texture.
+Give the image a soft, terry cloth texture.
+Give the image a sturdy, brick texture.
+How would this image appear if it were in the style of De Stijl?
+How would this image look if it were done in the style of Art Informel?
+How would this image look if it were done in the style of Luminism?
+How would this image look if it were done in the style of Magic Realism?
+How would this image look if it were painted in the style of Orphism?
+How would this image look if it were painted in the style of Romanticism?
+How would this image look if it were painted in the style of Transavantgarde?
+How would this image look in a Cubist style?
+How would this look if it were painted in the style of Precisionism?
+How would this scene appear if it were in the style of Minimalism?
+How would this scene appear if it were in the style of Pointillism?
+How would this scene appear if it were in the style of the Camden Town Group?
+How would this scene appear in a Surrealist style?
+Make him in the style of Picasso
+Make it in the a more blurred style
+Make it look like a 1920s flapper poster.
+Make it look like a 1950s sci-fi movie poster.
+Make it look like a 1960s psychedelic poster.
+Make it look like a Baroque painting by Peter Paul Rubens.
+Make it look like a Byzantine mosaic as if designed by an ancient artisan.
+Make it look like a Celtic knot design.
+Make it look like a Chinese brush painting.
+Make it look like a Japanese ukiyo-e print.
+Make it look like a Native American tapestry.
+Make it look like a Persian miniature.
+Make it look like a Renaissance engraving.
+Make it look like a Renaissance fresco.
+Make it look like a Renaissance painting.
+Make it look like a blueprint.
+Make it look like a comic strip.
+Make it look like a crumpled paper.
+Make it look like a dream sequence.
+Make it look like a ghostly Victorian photo.
+Make it look like a ghostly apparition.
+Make it look like a hologram.
+Make it look like a horror movie poster.
+Make it look like a medieval stained glass window.
+Make it look like a medieval tapestry.
+Make it look like a metal engraving.
+Make it look like a minimalist painting by Agnes Martin.
+Make it look like a mosaic art.
+Make it look like a newspaper print.
+Make it look like a painting by the Ashcan School artist George Bellows.
+Make it look like a painting by the Northern Renaissance artist Albrecht Dürer.
+Make it look like a painting by the abstract artist Wassily Kandinsky.
+Make it look like a painting by the color field painter Barnett Newman.
+Make it look like a painting by the early Netherlandish painter Hieronymus Bosch.
+Make it look like a painting by the expressionist artist Franz Marc.
+Make it look like a peeling paint.
+Make it look like a pencil sketch.
+Make it look like a piece of folk art by Grandma Moses.
+Make it look like a pre-Raphaelite painting by Dante Gabriel Rossetti.
+Make it look like a propaganda poster.
+Make it look like a retro video game sprite.
+Make it look like a rubber stamp.
+Make it look like a sand sculpture.
+Make it look like a sculpture by Auguste Rodin.
+Make it look like a spy code.
+Make it look like a thermal image.
+Make it look like a thermal map.
+Make it look like a thermal vision.
+Make it look like a velvet texture.
+Make it look like a vintage Hollywood movie poster.
+Make it look like a vintage air show poster.
+Make it look like a vintage ballet performance poster.
+Make it look like a vintage baseball card.
+Make it look like a vintage bicycle race poster.
+Make it look like a vintage boxing match poster.
+Make it look like a vintage boxing poster.
+Make it look like a vintage car racing poster.
+Make it look like a vintage circus performance poster.
+Make it look like a vintage circus poster.
+Make it look like a vintage comedy show poster.
+Make it look like a vintage dance marathon poster.
+Make it look like a vintage detective movie poster.
+Make it look like a vintage fashion magazine cover.
+Make it look like a vintage film festival poster.
+Make it look like a vintage film noir poster.
+Make it look like a vintage film premiere poster.
+Make it look like a vintage golf tournament poster.
+Make it look like a vintage horror movie poster.
+Make it look like a vintage horse racing poster.
+Make it look like a vintage jazz album cover.
+Make it look like a vintage jazz concert poster.
+Make it look like a vintage magic lantern show poster.
+Make it look like a vintage magic performance poster.
+Make it look like a vintage magic show poster.
+Make it look like a vintage motorcycle race poster.
+Make it look like a vintage opera poster.
+Make it look like a vintage postcard.
+Make it look like a vintage puppet show poster.
+Make it look like a vintage railway poster.
+Make it look like a vintage rock concert poster.
+Make it look like a vintage rodeo poster.
+Make it look like a vintage science fiction book cover.
+Make it look like a vintage ski resort poster.
+Make it look like a vintage surf poster.
+Make it look like a vintage swimming competition poster.
+Make it look like a vintage tennis tournament poster.
+Make it look like a vintage travel magazine cover.
+Make it look like a vintage travel postcard.
+Make it look like a vintage vaudeville poster.
+Make it look like a vintage wrestling match poster.
+Make it look like a winter wonderland.
+Make it look like a wireframe model.
+Make it look like an Andy Warhol pop art.
+Make it look like an abstract expressionist painting by Jackson Pollock.
+Make it look like an ancient Egyptian mural.
+Make it look like an infrared photo.
+Make it look like an old film photo.
+Make the texture mimic a delicate, chiffon fabric.
+Make the texture mimic a dense, beehive structure.
+Make the texture mimic a dense, cork board.
+Make the texture mimic a dense, floral carpet.
+Make the texture mimic a dense, foam padding.
+Make the texture mimic a dense, linoleum floor.
+Make the texture mimic a dense, rubber tire.
+Make the texture mimic a dense, soundproof foam.
+Make the texture mimic a hard, brick wall.
+Make the texture mimic a hard, granite rock.
+Make the texture mimic a luxurious, cashmere wool.
+Make the texture mimic a slick, rain-soaked pavement.
+Make the texture mimic a soft, down feather.
+Make the texture mimic a soft, fleece blanket.
+Make the texture mimic a soft, goose down.
+Make the texture mimic a soft, microfiber cloth.
+Make the texture mimic a soft, plush toy.
+Make the texture mimic a soft, rabbit fur.
+Make the texture mimic a soft, silk fabric.
+Make the texture mimic a soft, woolen fabric.
+Make the texture mimic a solid, concrete slab.
+Make the texture mimic a solid, steel plate.
+Make the texture mimic a sturdy, oak tree bark.
+Make the texture mimic a thick, acrylic canvas.
+Make the texture mimic a thick, mud plaster.
+Make the texture mimic a thick, oil paint.
+Make the texture mimic a vibrant, oil slick.
+Make the texture mimic a wet, slick surface.
+Replace the fruits with vegetables
+Transform it into a black and white sketch.
+Transform it into a painting as if created by Claude Monet.
+Transform it into a piece of Dada art.
+Transform it into a piece of Fauvism art.
+Transform it into a piece of Neo-Expressionism art.
+Transform it into a piece of Neoclassical art.
+Transform it into an Art Deco style.
+Transform the surface to mimic a craggy, rock face.
+Transform the surface to mimic a dense forest moss.
+Transform the surface to mimic a dry, desert sand.
+Transform the surface to mimic a fluffy, angora rabbit fur.
+Transform the surface to mimic a glossy, ceramic vase.
+Transform the surface to mimic a metallic brushed finish.
+Transform the surface to mimic a polished, jade stone.
+Transform the surface to mimic a rough, asphalt road.
+Transform the surface to mimic a rough, cobblestone path.
+Transform the surface to mimic a rough, plaster wall.
+Transform the surface to mimic a rugged, gravel path.
+Transform the surface to mimic a satin ribbon.
+Transform the surface to mimic a sleek, carbon fiber.
+Transform the surface to mimic a sleek, leather jacket.
+Transform the surface to mimic a smooth, anodized aluminum.
+Transform the surface to mimic a smooth, metal sheet.
+Transform the surface to mimic a smooth, plastic wrap.
+Transform the surface to mimic a smooth, teflon coating.
+Transform the surface to mimic a smooth, vinyl record.
+Transform the surface to mimic a smooth, wax finish.
+Transform the surface to mimic a soft, angora sweater.
+Transform the surface to mimic a soft, fur coat.
+Transform the surface to mimic a soft, llama fleece.
+Transform the surface to mimic a soft, llama wool.
+Transform the surface to mimic a soft, mink fur.
+Transform the surface to mimic lush, green grass.
+Transform the surface to mimic parched, cracked leather.
+Transform the surface to mimic soft velvet.
+Transform the texture to resemble a shimmering, dew-covered surface.
+Turn her into a cartoon
+Turn it into a Bollywood movie poster.
+Turn it into a Renaissance sculpture style.
+Turn it into a Victorian lace pattern.
+Turn it into a baroque painting.
+Turn it into a clay model.
+Turn it into a cubism art style.
+Turn it into a cubist painting in the style of Georges Braque.
+Turn it into a digital camouflage pattern.
+Turn it into a futuristic cityscape.
+Turn it into a gothic art style.
+Turn it into a graffiti art style.
+Turn it into a low-poly art style.
+Turn it into a papyrus scroll.
+Turn it into a piece of Baroque art.
+Turn it into a piece of Bauhaus design.
+Turn it into a piece of Post-Impressionism art.
+Turn it into a piece of Suprematism art.
+Turn it into a piece of abstract art in the style of Mark Rothko.
+Turn it into a piece of conceptual art in the style of Marcel Duchamp.
+Turn it into a piece of kinetic art in the style of Alexander Calder.
+Turn it into a piece of luminism in the style of Albert Bierstadt.
+Turn it into a piece of lyrical abstraction in the style of Helen Frankenthaler.
+Turn it into a piece of modern art in the style of Piet Mondrian.
+Turn it into a piece of naturalism in the style of John Constable.
+Turn it into a piece of op art in the style of Bridget Riley.
+Turn it into a piece of street art in the style of Banksy.
+Turn it into a pointillism art style.
+Turn it into a pop art piece like Roy Lichtenstein would create.
+Turn it into a quilt pattern.
+Turn it into a retro sci-fi poster.
+Turn it into a rock texture.
+Turn it into a stained glass art style.
+Turn it into a sugar crystal texture.
+Turn it into a traditional Aboriginal dot painting.
+Turn it into a traditional Armenian carpet pattern.
+Turn it into a traditional Baltic amber art style.
+Turn it into a traditional Chinese painting.
+Turn it into a traditional Chinese silk embroidery pattern.
+Turn it into a traditional Czech glass painting.
+Turn it into a traditional Dutch Delft tile pattern.
+Turn it into a traditional French toile fabric pattern.
+Turn it into a traditional Indian kalamkari fabric pattern.
+Turn it into a traditional Indonesian batik pattern.
+Turn it into a traditional Japanese kimono pattern.
+Turn it into a traditional Japanese ukiyo-e woodblock print style.
+Turn it into a traditional Korean hanbok pattern.
+Turn it into a traditional Maori carving style.
+Turn it into a traditional Mexican Talavera tile pattern.
+Turn it into a traditional Middle Eastern mosaic tile pattern.
+Turn it into a traditional Ottoman miniature style.
+Turn it into a traditional Russian khokhloma painting.
+Turn it into a traditional Scandinavian knit pattern.
+Turn it into a traditional Swiss paper cutting style.
+Turn it into a traditional Turkish Iznik pottery pattern.
+Turn it into a traditional Welsh tapestry pattern.
+Turn it into an abstract geometric art.
+Turn it into an art nouveau piece like Gustav Klimt would design.
+Turn it into an impressionist painting.
+What would it look like if it were a Byzantine icon?
+What would it look like if it were a Futurist painting?
+What would it look like if it were a Social Realism painting?
+What would it look like if it were a Victorian portrait?
+What would it look like if it were in the style of Symbolism?
+What would it look like if it were in the style of the New Objectivity?
+What would it look like if painted in the style of Abstract Expressionism?
+What would it look like in a Pre-Raphaelite style?
+What would it look like in a style inspired by the Bloomsbury Group?
+What would it look like in a style inspired by the Cobra Group?
+What would it look like in an Art Nouveau style?
+What would it look like in an Impressionist style?

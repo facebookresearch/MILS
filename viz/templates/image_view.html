@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image {{ image_file }}</title>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            margin: 20px;
+        }
+        .column {
+            flex: 1;
+            margin: 10px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="column">
+            <h2>Image</h2>
+            <img src="{{ url_for('get_image', filename=image_file) }}" alt="Image">
+        </div>
+        <div class="column">
+            <h2>Ground Truth Captions</h2>
+            <ul>
+                {% for caption in gt %}
+                    <li>{{ caption }}</li>
+                {% endfor %}
+            </ul>
+        </div>
+        <div class="column">
+            <h2>LLaVA Caption</h2>
+            <p>{{ llava_caption }}</p>
+        </div>
+        <div class="column">
+            <h2>Your Caption</h2>
+            <p>{{ your_caption }}</p>
+        </div>
+    </div>
+</body>
+</html>

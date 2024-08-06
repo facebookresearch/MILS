@@ -1,0 +1,11 @@
+You need to expand and rephrase the provided description for image generation to make the best image, by maximizing the image score:
+
+The description is: {init_description}
+
+Here are some example rephrases and the corresponding image scores: 
+
+{descriptions}
+
+Generate additional {requested_number} descriptions that will maximize the score. Be concrete and come up with different descriptions with various guesses for the possible way to rephrase and expand it, in a way that will maximize the score. 
+You can introduce new elements to the descriptions, combine unique elements and phrasings from provided descriptions to form new ones, drop description parts, or simplify them. 
+Be creative and don't be afraid to come up with erroneous descriptions. Put each instruction in a different line, with a counter at the beginning (e.g. "1. ..."), and keep them short (less than 77 words).

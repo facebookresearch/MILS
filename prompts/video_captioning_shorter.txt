@@ -1,0 +1,10 @@
+You need to provide a short video description. 
+I am providing to you a list of short video descriptions and scores. 
+Higher score means that the video description characterizes the video better: 
+
+{descriptions}
+
+Generate additional {requested_number} short video descriptions that you think that will maximize the score and fully capture the video. 
+Be concrete and try to find elements that are unique to this video. 
+You can introduce new elements to the descriptions, combine unique elements and objects from provided descriptions to form new descriptions, rephrase individual descriptions, drop elements, or simplify descriptions. 
+Be creative and don't be afraid to come up with erroneous descriptions. Put each description in a different line, with a counter at the beginning (e.g. "1. ..."), and try to keep them short up to 20-25 words.
