@@ -173,14 +173,11 @@ See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 If you use this work, please cite:
 
 ```bibtex
-@misc{ashutosh2025llmsheartraining,
-      title={LLMs can see and hear without any training}, 
-      author={Kumar Ashutosh and Yossi Gandelsman and Xinlei Chen and Ishan Misra and Rohit Girdhar},
-      year={2025},
-      eprint={2501.18096},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2501.18096}, 
+@article{ashutosh2025llms,
+  title={LLMs can see and hear without any training},
+  author={Ashutosh, Kumar and Gandelsman, Yossi and Chen, Xinlei and Misra, Ishan and Girdhar, Rohit},
+  journal={arXiv preprint arXiv:2501.18096},
+  year={2025}
 }
 ```
 
