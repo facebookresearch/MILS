@@ -173,10 +173,10 @@ See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 If you use this work, please cite:
 
 ```bibtex
-@article{ashutosh2025llms,
+@inproceedings{ashutosh2025llms,
   title={LLMs can see and hear without any training},
   author={Ashutosh, Kumar and Gandelsman, Yossi and Chen, Xinlei and Misra, Ishan and Girdhar, Rohit},
-  journal={arXiv preprint arXiv:2501.18096},
+  booktitle={ICML},
   year={2025}
 }
 ```
